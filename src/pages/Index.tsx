@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Featured from "@/components/Featured";
 import BodyEffects from "@/components/BodyEffects";
+import Treatment from "@/components/Treatment";
 import Promo from "@/components/Promo";
 import HelpBanner from "@/components/HelpBanner";
 import Footer from "@/components/Footer";
@@ -13,6 +14,7 @@ const Index = () => {
       <Hero />
       <Featured />
       <BodyEffects />
+      <Treatment />
       <Promo />
       <HelpBanner />
       <Footer />

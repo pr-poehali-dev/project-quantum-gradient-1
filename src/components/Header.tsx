@@ -20,6 +20,12 @@ export default function Header({ className }: HeaderProps) {
           >
             Последствия
           </a>
+          <a
+            href="#treatment"
+            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
+          >
+            Лечение
+          </a>
         </nav>
       </div>
     </header>
